@@ -1,10 +1,10 @@
-package v2
+package gamev2
 
 import (
 	_ "image/jpeg"
 	_ "image/png"
 
-	"github.com/algosup/game/v2/color"
+	"github.com/algosup/gamev2/color"
 	"github.com/hajimehoshi/ebiten"
 	"github.com/hajimehoshi/ebiten/ebitenutil"
 )
